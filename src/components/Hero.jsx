@@ -1,3 +1,4 @@
+// src/components/Hero.jsx
 import React from "react";
 import { motion } from "framer-motion";
 
@@ -47,7 +48,6 @@ export default function Hero() {
         transition={{ delay: 0.5, duration: 0.8 }}
         className="flex-1 mb-12 md:mb-0 flex justify-center"
       >
-        {/* Increased avatar size to w-80 h-80 */}
         <div className="w-80 h-80 rounded-full border-4 border-blue-400 overflow-hidden">
           <img
             src="https://i.ibb.co/xtn907b1/Whats-App-Image-2025-05-11-at-17-37-41-2c826bbc.jpg"
