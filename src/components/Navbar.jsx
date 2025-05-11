@@ -1,15 +1,14 @@
-// src/components/Navbar.jsx
 import React, { useState } from "react";
 import { Menu, X } from "lucide-react";
 
 // List of nav items with their corresponding section IDs
 const navItems = [
-  { title: "About",        id: "about"        },
-  { title: "Skills",       id: "skills"       },
-  { title: "Projects",     id: "projects"     },
-  { title: "Experience",   id: "experience"   },
+  { title: "About", id: "about" },
+  { title: "Skills", id: "skills" },
+  { title: "Projects", id: "projects" },
+  { title: "Experience", id: "experience" },
   { title: "Certificates", id: "certificates" },
-  { title: "Contact",      id: "contact"      },
+  { title: "Contact", id: "contact" },
 ];
 
 export default function Navbar() {
@@ -22,7 +21,7 @@ export default function Navbar() {
   return (
     <nav
       className="
-        fixed top-0 left-0 w-full z-10
+        fixed top-0 left-0 w-full z-50
         flex items-center justify-between
         px-6 md:px-20 py-4
         bg-gradient-to-r from-[#0f2027] via-[#203a43] to-[#2c5364]
