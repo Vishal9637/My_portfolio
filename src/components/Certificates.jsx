@@ -4,9 +4,18 @@ import { motion } from "framer-motion";
 const certificates = [
   {
     title: "Frontend Web Developer",
+    issuer: "Nullclass",
+    description:
+      "During my 5-month internship at NullClass, I worked as a Frontend Developer, where I wassresponsible for building and maintaining interactive, responsive, and user-friendly web interfaces.My role involved collaborating with designers and backend developers to deliver high-qualityfeatures and enhancements aligned with user needs and business goals",
+    date: "june 2025",
+    imageUrl:
+      "https://drive.google.com/file/d/1Lt2eYTH9M_tjtaBM85w75Wxb4Tduw6eC/view?usp=sharing",
+  },
+  {
+    title: "Frontend Web Developer",
     issuer: "CodeTech IT Solution.",
     description:
-      "Completed a one-month internship as a Front-End Developer.",
+      "Completed a 1-month intensive internship in Frontend Web Development at CodTech ITSolutions, where I focused on building modern, responsive web interfaces using React.js andTailwind CSS.Developed responsive UI components using React.js, enhancing usability andperformance.",
     date: "Feb 2025",
     imageUrl:
       "https://drive.google.com/file/d/1VWGOdDZZ9P1gkYkYVkBBnlYqciDy5oOr/view?usp=drive_link",

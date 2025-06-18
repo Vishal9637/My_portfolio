@@ -82,10 +82,13 @@ export default function About() {
             <div className="flex flex-wrap gap-2">
               {[
                 "Web Accessibility",
-                "UI/UX Design",
+                "Performance Optimization",
+               
+                "Responsive Design",
+                "User Experience",
                 "Open Source",
                 "Tech Blogging",
-                "Mentoring",
+                "Mentoring",    
               ].map((tag, idx) => (
                 <span
                   key={idx}
