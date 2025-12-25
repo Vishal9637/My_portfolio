@@ -3,6 +3,13 @@ import { motion } from "framer-motion";
 
 const experiences = [
   {
+  title: " INTERN FRONT-END WEB DEVELOPER / PROJECT LEAD",
+  company: "HouseOfMarkTech",
+  duration: "Jun 2025 - Aug 2025",
+  description: "Completed a 3-month internship at HouseOfMarkTech, working closely with a full-stack development team on a real-world project. Served as the Project Lead, coordinating tasks among team members, ensuring timely delivery, and maintaining clear communication between developers and the client. Contributed to front-end development using React.js, focusing on building responsive UI components, improving user experience, and integrating APIs. Actively participated in client meetings, gathered requirements, and translated them into functional features, helping build strong client relationships and ensuring project alignment with business goals.",
+  tech: ["React", "JavaScript", "Redux", "REST APIs", "Git", "Team Leadership"]
+},
+  {
     title: " INTERN FRONT-END WEB DEVELOPER",
     company: "NullClass.",
     duration: "JAN 2025 - Jun 2025",

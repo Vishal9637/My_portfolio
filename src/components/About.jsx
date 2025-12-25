@@ -52,6 +52,7 @@ export default function About() {
           >
             <h3 className="text-blue-400 font-semibold mb-1">Education</h3>
             <p className="text-gray-300">Diploma in Information Technology</p>
+            <p className="text-gray-300">Percentage: 86.08%</p>
             <p className="text-sm text-gray-400">
               Goverment Politechnic Mumbai <br />
               2022 – 2025
